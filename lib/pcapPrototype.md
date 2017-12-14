@@ -10,7 +10,7 @@ window.libpcap(
  opts
 );
 ```
-your object at was extenced as below :
+your object will be extenced as below :
 
 ```javascript
 opts = {
