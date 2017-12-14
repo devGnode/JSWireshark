@@ -17,7 +17,8 @@ opts = {
   acceptExt:[ "pcap", "pcapng" ],
   format:{
     pcap: function handler
-     pcapng: function handler
+    pcapng: function handler
+    }
 };
 ```
 ## :two: Prototype pcapng
